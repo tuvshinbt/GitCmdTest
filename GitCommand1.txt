@@ -3,5 +3,4 @@ Master - Commit2
 Master - Commit3
 Master - Commit4
 Tuvshin2 -Commit1
-
-Tuvshin2 -Commit1
+Tuvshin2 -Commit2
